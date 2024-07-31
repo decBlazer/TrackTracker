@@ -1,0 +1,6 @@
+[submodule "Track-Tracker-Backend"]
+	path = Track-Tracker-Backend
+	url = https://github.com/decBlazer/Track-Tracker-Backend.git
+[submodule "Track-Tracker-Frontend"]
+	path = Track-Tracker-Frontend
+	url = https://github.com/decBlazer/Track-Tracker-Frontend.git
